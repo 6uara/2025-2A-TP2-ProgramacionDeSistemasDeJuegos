@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|c:\\git\\2025-2a-tp2-programaciondesistemasdejuegos\\assets\\scripts\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|c:\\git\\2025-2a-tp2-programaciondesistemasdejuegos\\assets\\scripts\\spawning\\buttonconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawning\\buttonconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|c:\\git\\2025-2a-tp2-programaciondesistemasdejuegos\\assets\\scripts\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|c:\\git\\2025-2a-tp2-programaciondesistemasdejuegos\\assets\\scripts\\spawning\\characterspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawning\\characterspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|c:\\git\\2025-2a-tp2-programaciondesistemasdejuegos\\assets\\scripts\\command\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\assets\\scripts\\spawning\\spawnbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawning\\spawnbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\assets\\scripts\\command\\playanimationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\command\\playanimationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\assets\\scripts\\command\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\command\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|c:\\git\\2025-2a-tp2-programaciondesistemasdejuegos\\assets\\scripts\\command\\aliassescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\command\\aliassescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|c:\\git\\2025-2a-tp2-programaciondesistemasdejuegos\\assets\\scripts\\command\\commandconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\assets\\scripts\\command\\commandconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\command\\commandconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|c:\\git\\2025-2a-tp2-programaciondesistemasdejuegos\\assets\\scripts\\command\\playanimationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\command\\playanimationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\assets\\scripts\\command\\aliassescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FF162-3E2A-59EB-2A29-43CED121F64C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\command\\aliassescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,80 +43,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Controllers\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\PlayerController.cs",
-              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Controllers\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Controllers\\PlayerController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAhAAAAAAAAAA==",
+              "Title": "ButtonConfigSO.cs",
+              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Spawning\\ButtonConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning\\ButtonConfigSO.cs",
+              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Spawning\\ButtonConfigSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawning\\ButtonConfigSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T16:01:44.637Z",
+              "WhenOpened": "2025-07-02T16:48:18.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Character\\Character.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Character.cs",
-              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Character\\Character.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Character\\Character.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAgAAAAxAAAAAAAAAA==",
+              "Title": "CharacterSpawner.cs",
+              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Spawning\\CharacterSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning\\CharacterSpawner.cs",
+              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Spawning\\CharacterSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawning\\CharacterSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T16:00:56.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AliassesCommand.cs",
-              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\AliassesCommand.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Command\\AliassesCommand.cs",
-              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\AliassesCommand.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Command\\AliassesCommand.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T15:34:13.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CommandConsole.cs",
-              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\CommandConsole.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Command\\CommandConsole.cs",
-              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\CommandConsole.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Command\\CommandConsole.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T15:34:12.938Z",
+              "WhenOpened": "2025-07-02T16:48:09.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HelpCommand.cs",
-              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\HelpCommand.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Command\\HelpCommand.cs",
-              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\HelpCommand.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Command\\HelpCommand.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA9wCcAAAAAAAAAAAAAAA==",
+              "Title": "SpawnButton.cs",
+              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Spawning\\SpawnButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning\\SpawnButton.cs",
+              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Spawning\\SpawnButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawning\\SpawnButton.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T15:34:12.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T16:47:27.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PlayAnimationCommand.cs",
               "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\PlayAnimationCommand.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Command\\PlayAnimationCommand.cs",
               "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\PlayAnimationCommand.cs",
               "RelativeToolTip": "Assets\\Scripts\\Command\\PlayAnimationCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T15:31:51.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T16:46:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelpCommand.cs",
+              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\HelpCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Command\\HelpCommand.cs",
+              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\HelpCommand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Command\\HelpCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:46:37.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandConsole.cs",
+              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\CommandConsole.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Command\\CommandConsole.cs",
+              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\CommandConsole.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Command\\CommandConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:46:26.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AliassesCommand.cs",
+              "DocumentMoniker": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\AliassesCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Command\\AliassesCommand.cs",
+              "ToolTip": "C:\\Git\\2025-2A-TP2-ProgramacionDeSistemasDeJuegos\\Assets\\Scripts\\Command\\AliassesCommand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Command\\AliassesCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:46:07.225Z"
             }
           ]
         }

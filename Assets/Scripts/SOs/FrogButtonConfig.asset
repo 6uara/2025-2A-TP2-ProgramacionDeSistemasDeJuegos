@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 91b502d71e2e58b479500fcfbe875185, type: 3}
-  m_Name: ButtonConfigSO
+  m_Name: FrogButtonConfig
   m_EditorClassIdentifier: 
-  title: Character Spawner
-  config: {fileID: 11400000, guid: 2a661947d8d7f56478e57b9560b15f6c, type: 2}
+  title: Ninja Frog
+  config: {fileID: 11400000, guid: e071a37a094a4eb498d3abebbc35c032, type: 2}

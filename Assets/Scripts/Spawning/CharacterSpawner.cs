@@ -11,19 +11,19 @@ public class CharacterSpawner : MonoBehaviour, IConfigure
     }
     public void Spawn()
     {
-        var result = Instantiate(spawnconfig.digitalprefab, transform.position, transform.rotation);
+        var result = Instantiate(spawnconfig.prefab, transform.position, transform.rotation);
 
         if (!result.TryGetComponent(out Character character))
             character = result.gameObject.AddComponent<Character>();
-        character.Setup(spawnconfig.digitalcharacterModel);
+        character.Setup(spawnconfig.characterModel);
 
         if (!result.TryGetComponent(out PlayerController controller))
             controller = result.gameObject.AddComponent<PlayerController>();
-        controller.Setup(spawnconfig.digitalcontrollerModel);
+        controller.Setup(spawnconfig.controllerModel);
 
         var animator = result.GetComponentInChildren<Animator>();
         if (!animator)
             animator = result.gameObject.AddComponent<Animator>();
-        animator.runtimeAnimatorController = spawnconfig.digitalanimatorController;
+        animator.runtimeAnimatorController = spawnconfig.animatorController;
     }
 }
