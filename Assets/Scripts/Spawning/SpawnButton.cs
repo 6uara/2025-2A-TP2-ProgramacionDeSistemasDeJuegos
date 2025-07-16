@@ -41,7 +41,10 @@ public class SpawnButton : MonoBehaviour
         {
             if (button != null)
                 button.onClick.RemoveListener(action);
+
+            Destroy(button.gameObject); // Opcional: limpiar la UI completamente
         }
+
         registeredButtons.Clear();
     }
 }
