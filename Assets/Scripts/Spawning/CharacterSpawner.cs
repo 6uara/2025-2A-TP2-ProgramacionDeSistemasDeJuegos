@@ -17,5 +17,7 @@ public class CharacterSpawner : MonoBehaviour
         if (!animator)
             animator = result.gameObject.AddComponent<Animator>();
         if (player.animController != null){animator.runtimeAnimatorController = player.animController;}
+        
+        Debug.Log("Character Spawned");
     }
 }
