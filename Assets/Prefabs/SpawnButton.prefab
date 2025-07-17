@@ -265,9 +265,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1864672745202509754}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ce5a80fb715a0f149a093b787b7c7600, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  buttonContainer: {fileID: 0}
   button: {fileID: 5494813735892577113}
+  spawner: {fileID: 0}
+  config: {fileID: 0}

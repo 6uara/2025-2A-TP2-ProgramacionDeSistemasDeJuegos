@@ -1,39 +1,29 @@
-using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class SpawnButton : MonoBehaviour
+[RequireComponent(typeof(Button))]
+public class CharacterMenuButton : MonoBehaviour
 {
+    [SerializeField] private Transform buttonContainer;
     [SerializeField] private Button button;
+    [SerializeField] private CharacterSpawner spawner;       
+    [SerializeField] private CatalogSO config;       
 
-    private void Reset()
-        => button = GetComponent<Button>();
-
-    private void Awake()
+    
+    void Start()
     {
-        if (!button)
-            button = GetComponent<Button>();
-    }
-
-    private void OnEnable()
-    {
-        if (!button)
+        foreach(var entry in config.entries)
         {
-            Debug.LogError($"{name} <color=grey>({GetType().Name})</color>: {nameof(button)} is null!");
-            enabled = false;
-            return;
+            var btn = Instantiate(button, buttonContainer);
+            btn.GetComponentInChildren<TextMeshProUGUI>().text = entry.title;
+            btn.onClick.AddListener(() => 
+                spawner.Spawn(entry)
+            );
         }
-        button.onClick.AddListener(HandleClick);
     }
-
-    private void OnDisable()
+    private void Reset()
     {
-        button?.onClick?.RemoveListener(HandleClick);
-    }
-
-    private void HandleClick()
-    {
-        var spawner = FindFirstObjectByType<CharacterSpawner>();
-        spawner.Spawn();
+        button = GetComponent<Button>();
     }
 }
