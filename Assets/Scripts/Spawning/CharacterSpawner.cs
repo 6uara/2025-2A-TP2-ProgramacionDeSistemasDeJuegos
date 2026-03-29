@@ -5,11 +5,11 @@ public class CharacterSpawner : MonoBehaviour
     public void Spawn(CharacterSO player)
     {
         var result = Instantiate(player.prefab, transform.position, transform.rotation);
-        if (!result.TryGetComponent(out Character character))
+        if (!result.TryGetComponent(out ISetup<CharacterModel> character))
             character = result.gameObject.AddComponent<Character>();
         character.Setup(player.characterModel);
 
-        if (!result.TryGetComponent(out PlayerController controller))
+        if (!result.TryGetComponent(out ISetup<IPlayerControllerModel> controller))
             controller = result.gameObject.AddComponent<PlayerController>();
         controller.Setup(player.playerController);
 
